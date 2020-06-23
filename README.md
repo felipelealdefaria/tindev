@@ -35,6 +35,6 @@ Android: ```yarn react-native run-android```
 
 * https://bityli.com/oQjEF
 
-**Curiculum**
+**Curriculum**
 
 * https://bityli.com/flxly
